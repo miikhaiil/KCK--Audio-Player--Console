@@ -1,0 +1,20 @@
+C:\Users\Test\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Test\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Test\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Test\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\CSCore.dll
+C:\Users\Test\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\CSCore.xml
+C:\Users\Test\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\Test\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Test\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\Test\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Test\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\Test\source\repos\ConsoleApp2 - BEKAP\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Test\source\repos\ConsoleApp2 - BEKAP\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Test\source\repos\ConsoleApp2 - BEKAP\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Test\source\repos\ConsoleApp2 - BEKAP\ConsoleApp2\bin\Debug\CSCore.dll
+C:\Users\Test\source\repos\ConsoleApp2 - BEKAP\ConsoleApp2\bin\Debug\CSCore.xml
+C:\Users\Test\source\repos\ConsoleApp2 - BEKAP\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\Test\source\repos\ConsoleApp2 - BEKAP\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Test\source\repos\ConsoleApp2 - BEKAP\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\Test\source\repos\ConsoleApp2 - BEKAP\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Test\source\repos\ConsoleApp2 - BEKAP\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
